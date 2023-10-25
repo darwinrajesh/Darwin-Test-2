@@ -1,3 +1,3 @@
 #!/bin/bash
-TODAYDATE=$(date +%F)
+TODAYDATE=$(date +%f)
 echo "Todays date is $TODAYDATE"
