@@ -6,6 +6,6 @@ sample
 stat()
 {
 
-    echo "No. of sessions open are  \e[32m $who | lc \e[0m"
+    echo -e  "No. of sessions open are  \e[32m $who | lc \e [0m"
 }
 stat
