@@ -1,4 +1,4 @@
 #!/bin/bash
 sample()
-{echo " I love jesus"}
+echo " I love jesus"
 sample
